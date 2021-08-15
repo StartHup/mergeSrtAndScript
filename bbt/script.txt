@@ -320,7 +320,7 @@ Leonard: Okay, well, this might make you feel better. Uh, we’re both scared th
 
 Scene: Howard and Bernadette’s apartment.
 
-Mike (on Skype): Hey, Froot Loops, what’s up?
+Mike: Hey, Froot Loops, what’s up?
 
 Howard: Hey, Mike. Listen, NASA asked me to throw out the first pitch at an Angels game. You got any advice?
 
